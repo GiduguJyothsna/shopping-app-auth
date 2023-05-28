@@ -1,0 +1,11 @@
+shopping-app :-
+
+cluster name :- shopping-app-CLUSTER
+
+username :- jyoshnagidugu652
+
+password :- 7Hiq6ovuadyUGKnX
+
+mongoDBUrl :- mongodb+srv://jyoshnagidugu652:7Hiq6ovuadyUGKnX@shopping-app-cluster.ozlsdey.mongodb.net/test
+
+ApplicationUrl :- mongodb+srv://jyoshnagidugu652:7Hiq6ovuadyUGKnX@shopping-app-cluster.ozlsdey.mongodb.net/?retryWrites=true&w=majority
